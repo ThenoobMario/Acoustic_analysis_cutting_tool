@@ -297,7 +297,7 @@ def dataset_generator(target_dir,
                                                                     ext=ext))))
     
     # Getting only the first n files for testing
-    abnormal_files = abnormal_files[:40]
+    abnormal_files = abnormal_files[:60]
     
     abnormal_labels = numpy.ones(len(abnormal_files))
     if len(abnormal_files) == 0:
