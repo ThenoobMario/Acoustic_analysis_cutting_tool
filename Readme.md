@@ -23,8 +23,6 @@ python baseline.py
 ```
 - After completion, a `results.yaml` will be generated in the `results` directory and an `ROC Curve graph` will be generated inside the `model` directory.
 
-> **NOTE:** I have included all the pickle files in the `paper_results` directory that can be used to reproduce the results mentioned in the paper.
-
 ## References and Citation 
 
 The code is heavily inspired by the [MIMII_Baseline](https://github.com/MIMII-hitachi/mimii_baseline). 
