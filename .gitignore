@@ -1,3 +1,4 @@
 dataset/
 SegmentedData/
-pickle/
+__pycache__/
+*.zip
