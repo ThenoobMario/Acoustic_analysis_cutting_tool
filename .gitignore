@@ -2,3 +2,6 @@ dataset/
 SegmentedData/
 __pycache__/
 *.zip
+pickle/
+transform_imgs/
+model/
