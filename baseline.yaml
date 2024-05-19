@@ -1,3 +1,4 @@
+# Set the path to the dataset. Assumes it is present in the code directory by default
 base_directory : ./dataset
 # The following directories will be created if not present 
 pickle_directory: ./pickle 
